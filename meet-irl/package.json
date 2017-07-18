@@ -14,5 +14,14 @@
     "express": "^4.15.3",
     "morgan": "^1.8.2",
     "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "angular": "^1.6.5",
+    "angular-mocks": "^1.6.5",
+    "angular-ui-router": "^1.0.3",
+    "jasmine-core": "^2.6.4",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
   }
 }
